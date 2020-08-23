@@ -6,7 +6,7 @@ I am Harsha Srikara, an undergraduate student at the [University of Texas at Dal
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshasrikara/)](https://instagram.com/harshasrikara)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/harshasrikara)](https://www.youtube.com/c/harshasrikara)
 [![Medium Badge](https://img.shields.io/badge/-@medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@harshasrikara/)](https://medium.com/@harshasrikara)
-[![Gmail Badge](https://img.shields.io/badge/-harshasrikara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshasrikara@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-harshasrikara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshasrikara@gmail.com)](mailto:harshasrikara@gmail.com)
 
 ## ⚡ Technologies
 
