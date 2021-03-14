@@ -40,11 +40,11 @@ I am Harsha Srikara, an undergraduate student at the [University of Texas at Dal
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/DSC-UTDallas/DSC-Bot/pull/28) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-2. 🎉 Merged PR [#27](https://github.com/DSC-UTDallas/DSC-Bot/pull/27) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-3. ❗️ Closed issue [#23](https://github.com/DSC-UTDallas/DSC-Bot/issues/23) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-4. 🎉 Merged PR [#26](https://github.com/DSC-UTDallas/DSC-Bot/pull/26) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-5. ❗️ Closed issue [#24](https://github.com/DSC-UTDallas/DSC-Bot/issues/24) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+1. 🗣 Commented on [#21](https://github.com/acmutd/portal/issues/21) in [acmutd/portal](https://github.com/acmutd/portal)
+2. 🗣 Commented on [#21](https://github.com/acmutd/portal/issues/21) in [acmutd/portal](https://github.com/acmutd/portal)
+3. 🗣 Commented on [#23](https://github.com/acmutd/portal/issues/23) in [acmutd/portal](https://github.com/acmutd/portal)
+4. 🎉 Merged PR [#48](https://github.com/acmutd/acmutd.github.io/pull/48) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
+5. ❗️ Closed issue [#36](https://github.com/acmutd/acmutd.github.io/issues/36) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=harshasrikara)
