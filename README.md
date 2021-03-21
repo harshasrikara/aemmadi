@@ -47,7 +47,7 @@ I am Harsha Srikara, an undergraduate student at the [University of Texas at Dal
 5. 🎉 Merged PR [#48](https://github.com/acmutd/acmutd.github.io/pull/48) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
 <!--END_SECTION:activity-->
 
-![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=harshasrikara)
+![Harsha's github stats](https://github-readme-stats.vercel.app/api?username=harshasrikara)
 
 <!--START_SECTION:table-->
 <details>
