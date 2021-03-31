@@ -40,10 +40,10 @@ I am Harsha Srikara, an undergraduate student at the [University of Texas at Dal
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/acmutd/portal-backend/issues/54) in [acmutd/portal-backend](https://github.com/acmutd/portal-backend)
-2. ❗️ Closed issue [#25](https://github.com/acmutd/portal/issues/25) in [acmutd/portal](https://github.com/acmutd/portal)
-3. 🎉 Merged PR [#23](https://github.com/acmutd/portal/pull/23) in [acmutd/portal](https://github.com/acmutd/portal)
-4. 🗣 Commented on [#23](https://github.com/acmutd/portal/issues/23) in [acmutd/portal](https://github.com/acmutd/portal)
+1. ❗️ Opened issue [#29](https://github.com/acmutd/portal/issues/29) in [acmutd/portal](https://github.com/acmutd/portal)
+2. 🗣 Commented on [#54](https://github.com/acmutd/portal-backend/issues/54) in [acmutd/portal-backend](https://github.com/acmutd/portal-backend)
+3. ❗️ Closed issue [#25](https://github.com/acmutd/portal/issues/25) in [acmutd/portal](https://github.com/acmutd/portal)
+4. 🎉 Merged PR [#23](https://github.com/acmutd/portal/pull/23) in [acmutd/portal](https://github.com/acmutd/portal)
 5. 🗣 Commented on [#23](https://github.com/acmutd/portal/issues/23) in [acmutd/portal](https://github.com/acmutd/portal)
 <!--END_SECTION:activity-->
 
