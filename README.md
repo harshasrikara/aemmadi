@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Harsha Srikara, an undergraduate student at the [University of Texas at Dallas](https://utdallas.edu), double majoring in Computer Science and Mathematics. Currently, I work as a software developer at [Brainspace](https://brainspace.com) designing our innovative data analytics platform. In addition, I am the Director of Development on the Board for the [Association for Computing Machinery](https://github.com/acmutd), the largest student organization at UT Dallas.
+I am Harsha Srikara, an undergraduate student at the [University of Texas at Dallas](https://utdallas.edu), double majoring in Computer Science and Mathematics. Currently, I work as a software developmenet intern at [Amazon](https://amazon.com). In addition, I currently serve as the Strategic Advisor for the [Association for Computing Machinery](https://github.com/acmutd), the largest student organization at UT Dallas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshasrikara/)](https://www.linkedin.com/in/harshasrikara/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshasrikara/)](https://instagram.com/harshasrikara)
