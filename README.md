@@ -40,11 +40,11 @@ I am Harsha Srikara, an undergraduate student at the [University of Texas at Dal
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/acmutd/portal-backend/issues/57) in [acmutd/portal-backend](https://github.com/acmutd/portal-backend)
-2. ❗️ Opened issue [#56](https://github.com/acmutd/portal-backend/issues/56) in [acmutd/portal-backend](https://github.com/acmutd/portal-backend)
-3. ❗️ Opened issue [#29](https://github.com/acmutd/portal/issues/29) in [acmutd/portal](https://github.com/acmutd/portal)
-4. 🗣 Commented on [#54](https://github.com/acmutd/portal-backend/issues/54) in [acmutd/portal-backend](https://github.com/acmutd/portal-backend)
-5. ❗️ Closed issue [#25](https://github.com/acmutd/portal/issues/25) in [acmutd/portal](https://github.com/acmutd/portal)
+1. 💪 Opened PR [#1](https://github.com/Joy2469/HackTX/pull/1) in [Joy2469/HackTX](https://github.com/Joy2469/HackTX)
+2. 💪 Opened PR [#94](https://github.com/nextauthjs/docs/pull/94) in [nextauthjs/docs](https://github.com/nextauthjs/docs)
+3. 🎉 Merged PR [#10](https://github.com/OctoPipeline/OctoPipeline/pull/10) in [OctoPipeline/OctoPipeline](https://github.com/OctoPipeline/OctoPipeline)
+4. ❗️ Closed issue [#5](https://github.com/OctoPipeline/OctoPipeline/issues/5) in [OctoPipeline/OctoPipeline](https://github.com/OctoPipeline/OctoPipeline)
+5. ❗️ Closed issue [#4](https://github.com/OctoPipeline/OctoPipeline/issues/4) in [OctoPipeline/OctoPipeline](https://github.com/OctoPipeline/OctoPipeline)
 <!--END_SECTION:activity-->
 
 ![Harsha's github stats](https://github-readme-stats.vercel.app/api?username=harshasrikara)
