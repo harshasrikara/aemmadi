@@ -40,11 +40,11 @@ I am Harsha Srikara, an undergraduate student at the [University of Texas at Dal
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Joy2469/HackTX/pull/1) in [Joy2469/HackTX](https://github.com/Joy2469/HackTX)
-2. 💪 Opened PR [#94](https://github.com/nextauthjs/docs/pull/94) in [nextauthjs/docs](https://github.com/nextauthjs/docs)
-3. 🎉 Merged PR [#10](https://github.com/OctoPipeline/OctoPipeline/pull/10) in [OctoPipeline/OctoPipeline](https://github.com/OctoPipeline/OctoPipeline)
-4. ❗️ Closed issue [#5](https://github.com/OctoPipeline/OctoPipeline/issues/5) in [OctoPipeline/OctoPipeline](https://github.com/OctoPipeline/OctoPipeline)
-5. ❗️ Closed issue [#4](https://github.com/OctoPipeline/OctoPipeline/issues/4) in [OctoPipeline/OctoPipeline](https://github.com/OctoPipeline/OctoPipeline)
+1. 🎉 Merged PR [#2](https://github.com/acmutd/docs-leadership/pull/2) in [acmutd/docs-leadership](https://github.com/acmutd/docs-leadership)
+2. 🎉 Merged PR [#3](https://github.com/acmutd/docs-leadership/pull/3) in [acmutd/docs-leadership](https://github.com/acmutd/docs-leadership)
+3. 🎉 Merged PR [#78](https://github.com/acmutd/acmutd.github.io/pull/78) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
+4. 💪 Opened PR [#78](https://github.com/acmutd/acmutd.github.io/pull/78) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
+5. 🎉 Merged PR [#41](https://github.com/acmutd/leadership/pull/41) in [acmutd/leadership](https://github.com/acmutd/leadership)
 <!--END_SECTION:activity-->
 
 ![Harsha's github stats](https://github-readme-stats.vercel.app/api?username=harshasrikara)
