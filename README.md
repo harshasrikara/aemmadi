@@ -1,6 +1,10 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Harsha Srikara, an undergraduate student at the [University of Texas at Dallas](https://utdallas.edu), double majoring in Computer Science and Mathematics. Starting 2022, I will be joining [Amazon](https://amazon.com) as a software development engineer. In addition, I currently serve as the Strategic Advisor for the [Association for Computing Machinery](https://github.com/acmutd), the largest student organization at UT Dallas.
+I'm Harsha Srikara. I currently work as a Software Development Engineer at [Amazon](https://www.nytimes.com/wirecutter/reviews/best-alexa-speakers/) helping build the next generation of innovative Alexa products and services. I hold a Bachelor's in Computer Science degree & Certificate in Information Assurance from the [University of Texas at Dallas](https://cs.utdallas.edu). My interests include diving into the software design process, data pipeline archcitecture, security analysis and vulnerability mitigation. To pursue this, I've developed a strong background in system design, data-driven process flow, cloud-first architectural patterns, and modern security practices. 
+
+I'm always on the lookout for new opportunities to continue learning and empowering the community around me. Whether you want to just say hi or work with me on a project feel free to reach out! Look forward to hearing from you!
+
+Note: If you're interested in an opportunity at [Amazon](https://www.amazon.jobs/en/), reach out to me on [LinkedIn](https://linkedin.com/in/harshasrikara).
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshasrikara/)](https://www.linkedin.com/in/harshasrikara/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshasrikara/)](https://instagram.com/harshasrikara)
